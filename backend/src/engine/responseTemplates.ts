@@ -67,29 +67,29 @@ const TEMPLATES: TemplateRegistry = {
     mr: "अधिक चांगल्या मार्गदर्शनासाठी, तुमची शैक्षणिक पार्श्वभूमी आणि तुम्हाला शिकायचे असलेले तंत्रज्ञान सांगाल का?"
   },
   TPL_JEE_CLASS12_WELCOME: {
-    en: "Welcome, {{name}}! At TechSummitTrainers, our flagship programs are built for students and graduates stepping into software engineering. We offer **Full-Stack Java + DevOps + AI** (₹40,000 starting) and **MERN Stack + DevOps + AI** (₹40,000 starting) with hands-on live projects and dedicated career mentoring on FC Road, Pune or Online. Which track interests you most?",
-    hi: "{{name}}, TechSummitTrainers में आपका स्वागत है! हमारे प्रमुख प्रोग्राम्स: **Full-Stack Java** और **MERN Stack** (शुरुआती फीस ₹40,000, आसान EMI उपलब्ध)। कौन सा ट्रैक आपको पसंद है?",
-    mr: "{{name}}, TechSummitTrainers मध्ये आपले स्वागत आहे! आमचे प्रमुख प्रोग्राम्स: **Full-Stack Java** आणि **MERN Stack** (सुरुवातीची फी ₹40,000, सुलभ EMI सह). तुम्हाला कोणता ट्रॅक आवडेल?"
+    en: "Welcome, {{name}}! At TechSummitTrainers, our flagship programs are built for students and graduates stepping into software engineering. We offer Full-Stack Java + DevOps + AI (₹40,000 starting) and MERN Stack + DevOps + AI (₹40,000 starting) with hands-on live projects and dedicated career mentoring on FC Road, Pune or Online. Which track interests you most?",
+    hi: "{{name}}, TechSummitTrainers में आपका स्वागत है! हमारे प्रमुख प्रोग्राम्स: Full-Stack Java और MERN Stack (शुरुआती फीस ₹40,000, आसान EMI उपलब्ध)। कौन सा ट्रैक आपको पसंद है?",
+    mr: "{{name}}, TechSummitTrainers मध्ये आपले स्वागत आहे! आमचे प्रमुख प्रोग्राम्स: Full-Stack Java आणि MERN Stack (सुरुवातीची फी ₹40,000, सुलभ EMI सह). तुम्हाला कोणता ट्रॅक आवडेल?"
   },
   TPL_JEE_CLASS11_WELCOME: {
-    en: "Great to connect, {{name}}! TechSummitTrainers specializes in industry-ready tech training. We offer complete practical programs in **Python & AI**, **Full-Stack Java**, and **Data Science & Analytics**. All courses include live mentorship, portfolio projects, and free demo classes. Would you like details on upcoming demo schedules?",
-    hi: "{{name}}, TechSummitTrainers में आपका स्वागत है! हम **Python & AI**, **Full-Stack Java**, और **Data Science** में विशेषज्ञता रखते हैं। क्या आप फ्री डेमो क्लास की जानकारी चाहेंगे?",
-    mr: "{{name}}, TechSummitTrainers मध्ये आपले स्वागत आहे! आम्ही **Python & AI**, **Full-Stack Java**, आणि **Data Science** चे प्रशिक्षण देतो. फ्री डेमो क्लासबद्दल अधिक जाणून घेणार का?"
+    en: "Great to connect, {{name}}! TechSummitTrainers specializes in industry-ready tech training. We offer complete practical programs in Python & AI, Full-Stack Java, and Data Science & Analytics. All courses include live mentorship, portfolio projects, and free demo classes. Would you like details on upcoming demo schedules?",
+    hi: "{{name}}, TechSummitTrainers में आपका स्वागत है! हम Python & AI, Full-Stack Java, और Data Science में विशेषज्ञता रखते हैं। क्या आप फ्री डेमो क्लास की जानकारी चाहेंगे?",
+    mr: "{{name}}, TechSummitTrainers मध्ये आपले स्वागत आहे! आम्ही Python & AI, Full-Stack Java, आणि Data Science चे प्रशिक्षण देतो. फ्री डेमो क्लासबद्दल अधिक जाणून घेणार का?"
   },
   TPL_NEET_WELCOME: {
-    en: "Hello, {{name}}! For careers in technology and data, TechSummitTrainers offers intensive practitioner-led programs in **Data Science & Analytics + AI** (5 Months, ₹45,000 starting) and **Software Testing & QA Automation** (4 Months, ₹30,000 starting). Both are beginner-friendly and include real-world capstones. Would you like to view the syllabus module breakdown?",
-    hi: "{{name}}, TechSummitTrainers में डेटा और टेक प्रोग्राम्स: **Data Science & AI** (5 महीने, ₹45,000) और **Software Testing** (4 महीने, ₹30,000)। क्या आप सिलेबस देखना चाहेंगे?",
-    mr: "{{name}}, TechSummitTrainers मध्ये: **Data Science & AI** (5 महिने, ₹45,000) आणि **Software Testing** (4 महिने, ₹30,000). सिलॅबस पाहायचा आहे का?"
+    en: "Hello, {{name}}! For careers in technology and data, TechSummitTrainers offers intensive practitioner-led programs in Data Science & Analytics + AI (5 Months, ₹45,000 starting) and Software Testing & QA Automation (4 Months, ₹30,000 starting). Both are beginner-friendly and include real-world capstones. Would you like to view the syllabus module breakdown?",
+    hi: "{{name}}, TechSummitTrainers में डेटा और टेक प्रोग्राम्स: Data Science & AI (5 महीने, ₹45,000) और Software Testing (4 महीने, ₹30,000)। क्या आप सिलेबस देखना चाहेंगे?",
+    mr: "{{name}}, TechSummitTrainers मध्ये: Data Science & AI (5 महिने, ₹45,000) आणि Software Testing (4 महिने, ₹30,000). सिलॅबस पाहायचा आहे का?"
   },
   TPL_CET_WELCOME: {
-    en: "Hello {{name}}! If you're looking for fast-track skill development with hands-on coding, our **Software Testing + Automation + AI** course (₹30,000 starting, 4 Months) and **MERN Stack + DevOps + AI** (₹40,000 starting, 5 Months) provide the fastest route to industry readiness. Would you like to attend a free live demo session?",
-    hi: "{{name}}, टेक करियर के लिए हमारे प्रोग्राम्स: **Software Testing** (₹30,000) और **MERN Stack** (₹40,000)। फ्री डेमो क्लास अटेंड करना चाहेंगे?",
-    mr: "{{name}}, टेक करिअरसाठी: **Software Testing** (₹30,000) आणि **MERN Stack** (₹40,000). फ्री डेमो क्लासमध्ये सहभागी व्हायचे का?"
+    en: "Hello {{name}}! If you're looking for fast-track skill development with hands-on coding, our Software Testing + Automation + AI course (₹30,000 starting, 4 Months) and MERN Stack + DevOps + AI (₹40,000 starting, 5 Months) provide the fastest route to industry readiness. Would you like to attend a free live demo session?",
+    hi: "{{name}}, टेक करियर के लिए हमारे प्रोग्राम्स: Software Testing (₹30,000) और MERN Stack (₹40,000)। फ्री डेमो क्लास अटेंड करना चाहेंगे?",
+    mr: "{{name}}, टेक करिअरसाठी: Software Testing (₹30,000) आणि MERN Stack (₹40,000). फ्री डेमो क्लासमध्ये सहभागी व्हायचे का?"
   },
   TPL_ABROAD_WELCOME: {
-    en: "Hello {{name}}! Our **Full-Stack Python + DevOps + AI** and **Data Science & Analytics + AI** courses are designed with global production standards (Docker, Kubernetes, AWS, FastAPI, GenAI) to prepare you for enterprise tech opportunities. Which domain are you targeting?",
-    hi: "{{name}}, हमारे ग्लोबल स्टैंडर्ड प्रोग्राम्स: **Python + DevOps + AI** और **Data Science & Analytics**। आप किस डोमेन में जाना चाहते हैं?",
-    mr: "{{name}}, आमचे प्रोग्रॅम्स: **Python + DevOps + AI** आणि **Data Science & Analytics**. तुम्हाला कोणत्या क्षेत्रात जायचे आहे?"
+    en: "Hello {{name}}! Our Full-Stack Python + DevOps + AI and Data Science & Analytics + AI courses are designed with global production standards (Docker, Kubernetes, AWS, FastAPI, GenAI) to prepare you for enterprise tech opportunities. Which domain are you targeting?",
+    hi: "{{name}}, हमारे ग्लोबल स्टैंडर्ड प्रोग्राम्स: Python + DevOps + AI और Data Science & Analytics। आप किस डोमेन में जाना चाहते हैं?",
+    mr: "{{name}}, आमचे प्रोग्रॅम्स: Python + DevOps + AI आणि Data Science & Analytics. तुम्हाला कोणत्या क्षेत्रात जायचे आहे?"
   },
   TPL_PRESCHOOL_WELCOME: {
     en: "Welcome to TechSummitTrainers! We are a technical IT training institute offering industry-aligned engineering bootcamps in Full-Stack Java, Python, MERN, Software Testing, and Data Science. Are you looking for technical training for yourself or a student?",
@@ -97,9 +97,9 @@ const TEMPLATES: TemplateRegistry = {
     mr: "TechSummitTrainers मध्ये आपले स्वागत आहे! आम्ही Full-Stack, Python, MERN, Software Testing, आणि Data Science चे प्रशिक्षण देतो."
   },
   TPL_FULLSTACK_WELCOME: {
-    en: "Here are the verified details for our **Full-Stack Development Programs** at TechSummitTrainers:\n\n• **Java Track:** Full-Stack Java + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• **Python Track:** Full-Stack Python + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• **MERN Track:** MERN Stack + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• **Delivery:** Classroom training at FC Road, Pune + Interactive Live Online\n• **Batch Timings:** Weekday (Mon–Fri practicals) & Weekend intensive\n• **Career Support:** Resume/LinkedIn building, mock interviews, and job-search assistance (100% placement is not guaranteed)\n\nWould you like to attend a free live demo class or speak with a senior counsellor?",
-    hi: "TechSummitTrainers के **Full-Stack Development Programs** का विवरण:\n\n• **Java Track:** Full-Stack Java + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• **Python Track:** Full-Stack Python + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• **MERN Track:** MERN Stack + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• **स्थान:** एफसी रोड, पुणे और ऑनलाइन लाइव\n\nक्या आप फ्री डेमो क्लास या बैच विवरण चाहते हैं?",
-    mr: "TechSummitTrainers च्या **Full-Stack Programs** ची माहिती:\n\n• **Java Track:** Full-Stack Java + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• **Python Track:** Full-Stack Python + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• **MERN Track:** MERN Stack + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• **केंद्रे:** एफसी रोड, पुणे आणि ऑनलाइन लाइव्ह\n\nआपल्याला फ्री डेमो क्लास किंवा बॅच नोंदणीबद्दल अधिक माहिती हवी आहे का?"
+    en: "Here are the verified details for our Full-Stack Development Programs at TechSummitTrainers:\n\n• Java Track: Full-Stack Java + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• Python Track: Full-Stack Python + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• MERN Track: MERN Stack + DevOps + AI (5 Months, ₹40,000 starting · EMI available)\n• Delivery: Classroom training at FC Road, Pune + Interactive Live Online\n• Batch Timings: Weekday (Mon–Fri practicals) & Weekend intensive\n• Career Support: Resume/LinkedIn building, mock interviews, and job-search assistance (100% placement is not guaranteed)\n\nWould you like to attend a free live demo class or speak with a senior counsellor?",
+    hi: "TechSummitTrainers के Full-Stack Development Programs का विवरण:\n\n• Java Track: Full-Stack Java + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• Python Track: Full-Stack Python + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• MERN Track: MERN Stack + DevOps + AI (5 महीने, ₹40,000 शुरुआती)\n• स्थान: एफसी रोड, पुणे और ऑनलाइन लाइव\n\nक्या आप फ्री डेमो क्लास या बैच विवरण चाहते हैं?",
+    mr: "TechSummitTrainers च्या Full-Stack Programs ची माहिती:\n\n• Java Track: Full-Stack Java + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• Python Track: Full-Stack Python + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• MERN Track: MERN Stack + DevOps + AI (5 महिने, ₹40,000 सुरुवातीची फी)\n• केंद्रे: एफसी रोड, पुणे आणि ऑनलाइन लाइव्ह\n\nआपल्याला फ्री डेमो क्लास किंवा बॅच नोंदणीबद्दल अधिक माहिती हवी आहे का?"
   },
   TPL_COURSE_MATCH_BUDGET: {
     en: "Based on what you've shared, here are the best-matching TechSummitTrainers courses for you:\n\n{{courseList}}\n\nWould you like to attend a free live demo session or connect with an admissions counsellor?",

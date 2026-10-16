@@ -220,7 +220,8 @@ MANDATORY AI SYSTEM RULES (STRICT GROUNDING):
 7. Tone & Style: Friendly, professional, concise admissions counselor. Support English, Hindi, and Marathi naturally according to student preference.
 8. Output Format:
 Respond DIRECTLY with your conversational response for the student.
-Use neat, polished markdown formatting with bullet points and bold headers.
+Format responses cleanly, naturally, and professionally with neat spacing and clear bullet points.
+Avoid excessive bold text (do not surround every title, keyword, or phrase with asterisks).
 Do NOT wrap your entire response in JSON or code fences. Write naturally and clearly.`;
 
   const historyFormatted = conversationHistory.slice(-6).join('\n');
